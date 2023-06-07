@@ -1,0 +1,32 @@
+#mainbox{
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: center;
+}
+#box{
+    margin-top: 100px;
+    height: 600px;
+    width: 400px;
+    border: 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    justify-content: center;
+}
+.userinput{
+    height: 40px;
+    width: 300px;
+    outline: none;
+    margin-top: 25px;
+
+}
+#fild1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#but1{
+    display: flex;
+    justify-content: center;
+}

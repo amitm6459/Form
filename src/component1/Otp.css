@@ -1,0 +1,57 @@
+#outBox{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    
+}
+#innerbox{
+    height: 400px;
+    width: 300px;
+    /* border: 1px solid; */
+    display: flex;
+    background-color: rgb(151, 149, 147);
+    margin: 0px auto;
+    margin-top: 100px;
+    justify-content: center;
+    border-radius: 20px;
+}
+#optbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.input1{
+      height: 30px;
+      width: 200px;
+      outline: none;
+      margin-top: 40px;
+      margin-left: 50px;
+      border: none;
+}
+#otpbut{
+    height: 50px;
+    width: 100px;
+    /* border: 1px solid; */
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+button{
+    height: 30px;width: 80px;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 5px;
+
+}
+a{
+    color: black;
+
+    margin-left: 50px;
+
+}
+.errors{
+    color: rgb(243, 240, 238);
+    margin-left: 50px;
+}
